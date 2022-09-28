@@ -1,0 +1,11 @@
+[
+  {
+    "repository": " D042888-2/rr_device_samsung_j2y18lte",
+    "target_path": "device/samsung/j2y18lte"
+  }
+
+{
+    "repository": "TheUbuntuUser/android_kernel_samsung_j2y18lte",
+    "target_path": "kernel/samsung/j2y18lte"
+  }
+]
